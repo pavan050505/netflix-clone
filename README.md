@@ -31,15 +31,15 @@ A responsive **Netflix homepage clone** built with **HTML** and **CSS**. This pr
 netflix-clone/                                                                                                                                                                                                                                                                       
 ├── assets/                                                                                                                                                                                                                                                                          
 │ ├── images/ # Image assets used in the UI                                                                                                                                                                                                                                          
-│ │ ├── bg.jpg # Background image
-│ │ └── logo.svg # Netflix logo
-│ └── videos/ # Video assets
-│ └── netflix.mp4 # Sample video for background or preview
-│
-├── favicon.ico # Website favicon
-├── index.html # Main HTML file
-├── style.css # Custom CSS styling
-├── README.md # Project documentation
+│ │ ├── bg.jpg # Background image                                                                                                                                                                                                                                                    
+│ │ └── logo.svg # Netflix logo                                                                                                                                                                                                                                                      
+│ └── videos/ # Video assets                                                                                                                                                                                                                                                         
+│ └── netflix.mp4 # Sample video for background or preview                                                                                                                                                                                                                           
+│                                                                                                                                                                                                                                                                                    
+├── favicon.ico # Website favicon                                                                                                                                                                                                                                                    
+├── index.html # Main HTML file                                                                                                                                                                                                                                                      
+├── style.css # Custom CSS styling                                                                                                                                                                                                                                                   
+├── README.md # Project documentation                                                                                                                                                                                                                                                
 ---
 
 ## 💻 How to Run

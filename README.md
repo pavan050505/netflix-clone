@@ -6,14 +6,6 @@ A responsive **Netflix homepage clone** built with **HTML** and **CSS**. This pr
 
 ## 📺 Demo Video
 
-# 🎬 Netflix Clone
-
-A responsive **Netflix homepage clone** built using **HTML** and **CSS**. This project recreates the Netflix landing page UI with modern design practices, featuring banner sections, thumbnails, and responsive layouts.
-
----
-
-## 📺 Demo Video
-
 [![Watch Demo](https://img.youtube.com/vi/LNF3s_KkoiE/0.jpg)](https://www.youtube.com/watch?v=LNF3s_KkoiE)
 
 > 🔗 Click the image above to watch the demo video on YouTube.

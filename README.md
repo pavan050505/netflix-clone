@@ -28,9 +28,9 @@ A responsive **Netflix homepage clone** built with **HTML** and **CSS**. This pr
 
 ## 📁 Folder Structure
 
-netflix-clone/
-├── assets/
-│ ├── images/ # Image assets used in the UI
+netflix-clone/                                                                                                                                                                                                                                                                       
+├── assets/                                                                                                                                                                                                                                                                          
+│ ├── images/ # Image assets used in the UI                                                                                                                                                                                                                                          
 │ │ ├── bg.jpg # Background image
 │ │ └── logo.svg # Netflix logo
 │ └── videos/ # Video assets

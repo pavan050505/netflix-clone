@@ -8,7 +8,9 @@ A responsive **Netflix homepage clone** built with **HTML** and **CSS**. This pr
 
 🎥 Click below to watch the demo:
 
-[▶️ Watch Demo](./assets/videos/netflix.mp4)
+<video src="./assets/videos/netflix.mp4" controls width="100%" style="border-radius: 8px;">
+  Your browser does not support the video tag.
+</video>
 
 > *Note: GitHub will stream the video in supported browsers or allow it to be downloaded.*
 

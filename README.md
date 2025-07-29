@@ -26,20 +26,21 @@ A responsive **Netflix homepage clone** built with **HTML** and **CSS**. This pr
 
 ---
 
-## 🗂 Folder Structure
+## 📁 Folder Structure
+
+
 
 netflix-clone/
- ├── assets/
- │   ├── images/
- │   │   ├── bg.jpg
- │   │   └── logo.svg
- │   └── videos/
- │       └── netflix.mp4
- ├── favicon.ico
- ├── index.html
- ├── style.css
- ├── README.md
-
+├── assets/
+│ ├── images/
+│ │ ├── bg.jpg
+│ │ └── logo.svg
+│ └── videos/
+│ └── netflix.mp4
+├── favicon.ico
+├── index.html
+├── style.css
+└── README.md
 ---
 
 ## 💻 How to Run
